@@ -157,7 +157,7 @@ header label:hover {
 
 
 .menu li:hover{
-	background:#004759;
+	background:#024d44;
 	
 }
 .menu li a{
@@ -179,7 +179,7 @@ header label:hover {
 	}
 .menu li li{
 		
-		background:#006680;
+		background:#008071;
 		max-height:0;
 		overflow:hidden;
 		transition:all .5s;
@@ -328,13 +328,13 @@ header label:hover {
 	text-align:center;
 	background:#878a89;
 	border-radius:30px;
-	box-shadow:0px 0px 20px #2A4BB7;
+	box-shadow:0px 0px 20px #2ab771;
 	
 	
 }
 .autores:hover{
 	background: rgba(0,0,0,0.3);
-	box-shadow:0px 0px 35px #2A4BB7;
+	box-shadow:0px 0px 35px #2ab771;
 }
 
 #video{
@@ -364,7 +364,7 @@ header label:hover {
 	height:auto;
 	margin-top:20px;
 	padding:10px;
-	background:#14161A;
+	background:#024d44;
 	display:flex;
 	justify-content:center;
 }
@@ -384,7 +384,7 @@ text-align:center;
 	.menu{
 		
 		position:absolute;
-		background:#006680;
+		background:#008071;
 		width:50%;
 		margin-left:-50%;
 		transition: all 1s;
@@ -410,7 +410,7 @@ text-align:center;
 	}
 	.menu li li{
 			border-bottom: 0px solid #fff;
-			background:#006780;
+			background:#008071;
 			max-height:0;
 			overflow:hidden;
 			transition:all .8s;
